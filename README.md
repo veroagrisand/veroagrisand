@@ -1,5 +1,5 @@
-##Holopin
-[![@Vero Agrisanda's Holopin board](https://holopin.io/api/user/board?user=mouscrack29)](https://holopin.io/@mouscrack29)
+[![An image of @mouscrack29's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mouscrack29)](https://holopin.io/@mouscrack29)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/veroagrisand) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/veroagrisanda) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@veroag) 
 
